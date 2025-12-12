@@ -24,7 +24,7 @@ The codebase is organized into modular components, each responsible for a specif
 - `sim_cal.py`: similarity computation formulas
 - `msm_cal.py`: MSM similarity algorithm and exclusion rules
 - `evaluation_cal.py`: evaluation metrics and performance calculation
-- 'TVs-all-merged.json': dataset 
+- `TVs-all-merged.json`: dataset 
 ---
 
 ## How the Pipeline Works
